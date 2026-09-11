@@ -19,7 +19,7 @@ Developpement d'un site de présentation d'un jeu :
     <i class="fa-brands fa-square-github"></i> Brawlhalla
   </a>
 
- - <a href="https://TON-DEUXIEME-LIEN.com" target="_blank">
+ - <a href="https://github.com/Nathanan07/projet.github.io" target="_blank">
     <i class="fa-brands fa-square-github"></i> Lien github
   </a>
 
