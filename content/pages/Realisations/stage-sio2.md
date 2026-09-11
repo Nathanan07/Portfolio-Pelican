@@ -9,7 +9,7 @@ Title: Stage SIO2
 >
 > **Entreprise :** Nom de l'entreprise
 
-
+En cours
 
 # Présentation de l'entreprise/société :
 
